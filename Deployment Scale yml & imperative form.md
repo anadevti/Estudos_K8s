@@ -1,0 +1,2 @@
+Os recursos deployment aceitam  sacle, posso fazer um scale down ou um Scale up. Pode ser feito ataves da CLI ou alterações no yml. 
+Comando via CLI: kubectl deployment.apps/arquivodeployment.yml  - -replicas=10 (o Scale down funciona da mesma forma)

@@ -1,0 +1,1 @@
+refere-se ao processo de atualizar e gerenciar a versão de aplicações que estão sendo executadas em containers dentro do cluster do K8s.

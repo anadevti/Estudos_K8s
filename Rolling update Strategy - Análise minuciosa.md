@@ -1,0 +1,1 @@
+O campo rolling update strategy fala sobre a disponibilidade da aplicação, ele deixa no máximo 25% indisponível. Quando tem uma versão nova pra subir, ele vai substituindo um por um! Muito massa.
